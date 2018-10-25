@@ -16,6 +16,7 @@ def stack(folder,image_files):
 
 if __name__ == "__main__":
     imagefolders = sorted(os.listdir("Input"))
+    #imagefolders = ['keyboard']
     for fold in imagefolders:
         image_files = sorted(os.listdir("Input/{}".format(fold)))
         for img in image_files:

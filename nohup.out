@@ -1,0 +1,64 @@
+Reading in file keyboard_1.jpg
+Reading in file keyboard_2.jpg
+Reading in file keyboard_3.jpg
+Reading in file keyboard_4.jpg
+Reading in file keyboard_5.jpg
+Reading in file keyboard_6.jpg
+Reading in file keyboard_7.jpg
+Aligning focal stack
+Computing LoG
+Computing sharpness score
+Generating depth map
+allFocus and depth map files are created
+Reading in file step0.jpg
+Reading in file step1.jpg
+Reading in file step2.jpg
+Reading in file step3.jpg
+Reading in file step4.jpg
+Reading in file step5.jpg
+Aligning focal stack
+Computing LoG
+Computing sharpness score
+Generating depth map
+allFocus and depth map files are created
+Reading in file table3_00.jpg
+Reading in file table3_01.jpg
+Reading in file table3_02.jpg
+Reading in file table3_03.jpg
+Reading in file table3_04.jpg
+Reading in file table3_05.jpg
+Reading in file table3_06.jpg
+Reading in file table3_07.jpg
+Reading in file table3_08.jpg
+Reading in file table3_09.jpg
+Reading in file table3_10.jpg
+Reading in file table3_11.jpg
+Reading in file table3_12.jpg
+Reading in file table3_13.jpg
+Reading in file table3_14.jpg
+Reading in file table3_15.jpg
+Reading in file table3_16.jpg
+Reading in file table3_17.jpg
+Reading in file table3_18.jpg
+Reading in file table3_19.jpg
+Reading in file table3_20.jpg
+Aligning focal stack
+Computing LoG
+Computing sharpness score
+Generating depth map
+allFocus and depth map files are created
+Reading in file wall_panels_01.jpg
+Reading in file wall_panels_02.jpg
+Reading in file wall_panels_03.jpg
+Reading in file wall_panels_04.jpg
+Reading in file wall_panels_05.jpg
+Reading in file wall_panels_06.jpg
+Reading in file wall_panels_07.jpg
+Reading in file wall_panels_08.jpg
+Reading in file wall_panels_09.jpg
+Reading in file wall_panels_10.jpg
+Aligning focal stack
+Computing LoG
+Computing sharpness score
+Generating depth map
+allFocus and depth map files are created
